@@ -1,9 +1,4 @@
-'''
-Python Image Library 
-Demonstration
-Professor Hosmer
-September 2021
-'''
+
 
 # Python Standard Library
 import os
